@@ -1,3 +1,5 @@
 npm outdated : to check npm pacakge is outdated or not
 npm init : to initlaise the repo
 npm init -y : to load basic init repo to your project
+npm update : to update your repo
+npm start/run : to start your project
